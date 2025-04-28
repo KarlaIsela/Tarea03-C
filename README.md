@@ -75,3 +75,56 @@ Todo muy amigable y acompañado de mensajitos estéticos ✨.
 ![SALIENDO](https://github.com/KarlaIsela/Tarea03-C/blob/main/SSEjercicio06/E.png)
 
 ## [EJERCICIO 07] 🏥 Sistema de Gestión de Pacientes del Hospital
+Este programa simula ser un sistema de control de pacientes de un hospital, donde podras agregar pacientes, eliminarlos, buscarlos e incluso ver la lista completa de pacientes existentes en el hospital.
+
+## 🚀 ¿Cómo correr el programa?
+
+### 1. Clona o descarga el archivo
+Asegúrate de tener el archivo `Hospital.c` en tu computadora.
+
+### 2. Compila el programa
+Abre tu terminal (o CMD, PowerShell, Git Bash, etc.) y navega hasta la carpeta donde guardaste `Hospital.c`. Luego escribe:
+
+```bash
+gcc Hospital.c -o catalogo
+```
+
+Esto creará un ejecutable llamado `catalogo` (o `catalogo.exe` en Windows).
+
+> **¿No tienes `gcc`?**  
+> Instala **MinGW** en Windows, o si estás en Linux/Mac, probablemente ya lo tienes. Si no, instala con:  
+> - Ubuntu/Debian: `sudo apt install gcc`
+> - Mac (con Homebrew): `brew install gcc`
+
+### 3. Ejecuta el programa
+Ahora corre el ejecutable:
+
+```bash
+./catalogo
+```
+o en Windows:
+
+```bash
+catalogo.exe
+```
+
+### 4. Interactúa con el sistema
+Desde ahí podrás:
+- Agregar Nuevos pacientes
+- Eliminar pacientes que fueron dados de alta
+- Ver la lista completa de pacientes
+- Buscar un paciente en particular
+- Salir del sistema
+
+
+## 📄 Requisitos
+
+- **Compilador de C** (`gcc`, `clang`, o similar)
+- **Sistema operativo**: Windows, Linux o macOS
+
+## ⚠️ Notas importantes
+
+- El programa maneja dinámicamente la memoria, por lo que deberas seleccionar la opcion de salir para que el programa libere los recursos ocupados 
+- Si ingresas datos incorrectos deberia poder soportar algunos errores comunes, pero ey!!!, tampoco te luzcas queriendo ser el menso que truene el programa. 
+- 
+## 📸 Capturas de pantalla
