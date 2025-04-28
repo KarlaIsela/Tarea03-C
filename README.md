@@ -128,3 +128,19 @@ Desde ahí podrás:
 - Si ingresas datos incorrectos deberia poder soportar algunos errores comunes, pero ey!!!, tampoco te luzcas queriendo ser el menso que truene el programa. 
 - 
 ## 📸 Capturas de pantalla
+
+
+### Añadiendo un nuevo paciente
+<img width="671" alt="Captura de pantalla 2025-04-28 a la(s) 4 35 26" src="https://github.com/user-attachments/assets/f6f18299-bb34-4752-82b8-d5dbe1380c3e" />
+
+### Buscando un paciente 
+<img width="535" alt="Captura de pantalla 2025-04-28 a la(s) 4 35 37" src="https://github.com/user-attachments/assets/7c8e56d3-a209-4e9a-8af8-e4bc4202a213" />
+
+### Viendo la lista de pacientes
+<img width="531" alt="Captura de pantalla 2025-04-28 a la(s) 4 35 47" src="https://github.com/user-attachments/assets/52f0455f-21c2-4b06-833f-f0812ec23288" />
+
+### Eliminando un paciente
+<img width="576" alt="Captura de pantalla 2025-04-28 a la(s) 4 35 59" src="https://github.com/user-attachments/assets/a885988a-e330-4247-9e5b-9b5e2e02068b" />
+
+### Saliendo del sistema
+<img width="528" alt="Captura de pantalla 2025-04-28 a la(s) 4 36 07" src="https://github.com/user-attachments/assets/187eb96a-faa1-451a-be9b-49721dac9899" />
