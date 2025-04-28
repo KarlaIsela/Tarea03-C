@@ -59,5 +59,19 @@ Todo muy amigable y acompañado de mensajitos estéticos ✨.
 - 
 ## 📸 Capturas de pantalla
 
+### MENÚ
+![MENU](https://github.com/KarlaIsela/Tarea03-C/blob/main/SSEjercicio06/A.png)
+
+### AÑADIENDO LIBROS
+![AÑADIENDO LIBROS](https://github.com/KarlaIsela/Tarea03-C/blob/main/SSEjercicio06/B.png)
+
+### MOSTRANDO LIBROS
+![MOSTRANDO LIBROS](https://github.com/KarlaIsela/Tarea03-C/blob/main/SSEjercicio06/C.png)
+
+### ELIMINANDO LIBROS
+![ELIMINADO LIBROS](https://github.com/KarlaIsela/Tarea03-C/blob/main/SSEjercicio06/D.png)
+
+### SALIENDO
+![SALIENDO](https://github.com/KarlaIsela/Tarea03-C/blob/main/SSEjercicio06/E.png)
 
 ## [EJERCICIO 07] 🏥 Sistema de Gestión de Pacientes del Hospital
